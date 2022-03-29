@@ -1,0 +1,36 @@
+
+.content {
+    color: rgb(202, 125, 125);
+    margin-left: 30%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+.recipes li{
+    text-decoration: none;
+}
+
+
+.nav_bar ul{
+    background-color: bisque;
+    text-decoration: none;
+}
+
+.headertraditional{
+    
+    margin-left: 30%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.Description{
+    background-color: antiquewhite;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.ingridients h2{
+    background-color: rgb(193, 211, 211);
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.steps{
+    background-color: antiquewhite;
+    font-family: 'Libre Franklin', sans-serif;
+}
