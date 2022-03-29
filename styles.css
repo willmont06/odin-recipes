@@ -1,17 +1,25 @@
-
-.content {
-    color: rgb(202, 125, 125);
-    margin-left: 30%;
-    font-family: 'Libre Franklin', sans-serif;
+.background img{
+    position: relative;
+    height: 50%;
+    width: 100%;
 }
-.recipes li{
-    text-decoration: none;
+
+.bgtitle{
+    position: absolute;
+    color: rgb(206, 184, 184);
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+    
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 
 .nav_bar ul{
     background-color: bisque;
-    text-decoration: none;
+   
+    
 }
 
 .headertraditional{
